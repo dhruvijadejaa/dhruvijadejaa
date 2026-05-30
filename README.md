@@ -13,7 +13,7 @@
     <img align = "right" width="250" src ="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVtZHFqOGQ5bGhndmFyZDlrYjJkYzQ2MGowMHd1OGFjbTM1OXRrOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d3MLdIYIHup9Q2xG/giphy.gif" />
   </div>
   <div align ="left">
-    hello
+    Hi, I’m a Web Designer and Full-Stack Developer passionate about transforming ideas into engaging digital experiences. I specialize in UI/UX design, React.js frontend development, and Python Django backend development. My goal is to build fast, scalable, and visually appealing applications that provide real value to users and businesses.
   </div>
 </div>
 
