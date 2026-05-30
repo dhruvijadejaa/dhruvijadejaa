@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,45:3333ff,100:00ffcc&height=210&section=header&text=Dhruvi%20J&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Python%20Django%20Full%20Stack%20Developer&descAlignY=58&descSize=16" alt="Animated header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,45:3333ff,100:00ffcc&height=210&section=header&text=Dhruvi%20Jadeja&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Python%20Django%20Full%20Stack%20Developer&descAlignY=58&descSize=16" alt="Animated header" />
 
 <h1 align="center">
   Let's Connect and have a Chat!💬
