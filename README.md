@@ -2,12 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,45:3333ff,100:00ffcc&height=210&section=header&text=Dhruvi%20J&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Python%20Django%20Full%20Stack%20Developer&descAlignY=58&descSize=16" alt="Animated header" />
 
-
 ![Profile Views](https://komarev.com/ghpvc/?username=dhruvijadejaa&style=for-the-badge&color=blueviolet)
 ![Followers](https://img.shields.io/github/followers/dhruvijadejaa?style=for-the-badge&logo=github&label=FOLLOWERS&color=00d9ff)
 ![Stars](https://img.shields.io/github/stars/dhruvijadejaa?style=for-the-badge&logo=github&label=STARS&color=ffcc00)
-
-</div>
 
 <img src ="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVtZHFqOGQ5bGhndmFyZDlrYjJkYzQ2MGowMHd1OGFjbTM1OXRrOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d3MLdIYIHup9Q2xG/giphy.gif" />
 
