@@ -44,19 +44,7 @@
 
   ## 📊 GitHub Battle Stats
 
-<img width="900" src="profile-summary-card-output/radical/0-profile-details.svg" alt="GitHub profile summary" />
 
-<br/><br/>
-
-<img width="420" src="profile-summary-card-output/radical/1-repos-per-language.svg" alt="Top languages by repo" />
-<img width="420" src="profile-summary-card-output/radical/2-most-commit-language.svg" alt="Top languages by commit" />
-
-<br/><br/>
-
-<img width="420" src="profile-summary-card-output/radical/3-stats.svg" alt="GitHub stats" />
-<img width="420" src="profile-summary-card-output/radical/4-productive-time.svg" alt="Productive time" />
-
-<br/><br/>
 
 <img width="900" src="https://streak-stats.demolab.com?user=dhruvijadejaa&theme=radical&hide_border=true&card_width=900&background=0D1117" alt="GitHub streak" />
 
