@@ -41,7 +41,7 @@
 
 </div>
 
-<div>
+
   ## 📊 GitHub Battle Stats
 
 <img width="900" src="profile-summary-card-output/radical/0-profile-details.svg" alt="GitHub profile summary" />
@@ -65,7 +65,7 @@
 <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvijadejaa&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Battlefield" alt="Contribution graph" />
 
 </div>
-</div>
+
 
 *<b>👇 Hit in Your Console or Terminal to Connect With Me.</b>*
 
