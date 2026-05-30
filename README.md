@@ -41,10 +41,11 @@
 
 </div>
 
+<!--📏LANGUAGES-->
 
-  ## 📊 GitHub Battle Stats
 
-
+<!--📏STATS-->
+## 📊 GitHub Battle Stats
 
 <img width="900" src="https://streak-stats.demolab.com?user=dhruvijadejaa&theme=radical&hide_border=true&card_width=900&background=0D1117" alt="GitHub streak" />
 
