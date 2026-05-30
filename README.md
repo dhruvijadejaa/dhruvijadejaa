@@ -21,5 +21,22 @@
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
