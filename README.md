@@ -41,6 +41,12 @@
 
 </div>
 
+*<b>👇 Hit in Your Console or Terminal to Connect With Me.</b>*
+
+```bash
+npx dhruvijadejaa
+```
+
 <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
 
 
