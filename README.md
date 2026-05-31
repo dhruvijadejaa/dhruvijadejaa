@@ -43,7 +43,7 @@
 
 <!--📏LANGUAGES-->
 <div>
-  ![Language](https://img.shields.io/badge/Language-222222?style=for-the-badge)
+![Language](https://img.shields.io/badge/Language-3776AB?style=for-the-badge)
   <div display="flex">
     <img src ="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21~bgwhite.svg" />
     <img src ="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" />
@@ -74,9 +74,12 @@
 
 <div display="flex">
   ![Tools](https://img.shields.io/badge/Tools-222222?style=for-the-badge)
-  <img src="" />
-  <img src="" />
-  <img src="" />
+  <div display="flex>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" />
+  <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" />
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" />
+    <img src ="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" />
+  </div>
 </div>
 
 
