@@ -53,7 +53,7 @@
 </div>
 
 <div>
-![Framework & Libraries](https://img.shields.io/badge/Framework & Library-222222?style=for-the-badge)
+![Framework&Libraries](https://img.shields.io/badge/Framework&Library-222222?style=for-the-badge)
   <div display="flex">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" />
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" />
@@ -66,13 +66,15 @@
 
 <div display="flex">
   ![Backend](https://img.shields.io/badge/Backend-222222?style=for-the-badge)
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" />
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" />
+  <div display="flex">
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" />
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" />
+  </div>
 </div>
 
 <div display="flex">
   ![Tools](https://img.shields.io/badge/Tools-222222?style=for-the-badge)
-  <img src="icons/gsap.svg" />
+  <img src="" />
   <img src="" />
   <img src="" />
 </div>
