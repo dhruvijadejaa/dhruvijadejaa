@@ -42,6 +42,8 @@
 </div>
 
 <!--📏LANGUAGES-->
+**Languges
+<img src = "https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" />
 
 
 <!--📏STATS-->
