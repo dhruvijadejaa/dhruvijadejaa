@@ -42,15 +42,15 @@
 </div>
 
 <!--📏LANGUAGES-->
-![Language](https://img.shields.io/badge/Language-3776AB?style=for-the-badge)
+
+![Language](https://img.shields.io/badge/Language-222222?style=for-the-badge)
 <img src ="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21~bgwhite.svg" />
 <img src ="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" />
 <img src ="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" />
 <img src ="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />
 
-![Language](https://img.shields.io/badge/Language-222222?style=for-the-badge)
+![Frame](https://img.shields.io/badge/Frame-222222?style=for-the-badge)
 
-![Framework](https://img.shields.io/badge/Framework-222222?style=for-the-badge)
 
 ![Libraries](https://img.shields.io/badge/Libraries-222222?style=for-the-badge)
 
