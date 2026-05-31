@@ -75,7 +75,7 @@
 
 <div>
 <h2> Tools </h2>
-  <div display="flex>
+  <div display="flex">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" />
   <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" />
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" />
