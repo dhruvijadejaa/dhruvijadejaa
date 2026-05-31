@@ -45,6 +45,7 @@
 
 ![Language](https://img.shields.io/badge/Language-222222?style=for-the-badge)
 <img src ="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21~bgwhite.svg" />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 <img src ="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" />
 <img src ="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" />
 <img src ="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />
