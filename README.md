@@ -42,7 +42,7 @@
 </div>
 
 <!--📏LANGUAGES-->
-![Language](https://img.shields.io/badge/Language-blue)
+![Language](https://img.shields.io/badge/Language-3776AB?style=for-the-badge)
 <img src ="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21~bgwhite.svg" />
 <img src ="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" />
 <img src ="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" />
