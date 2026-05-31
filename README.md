@@ -43,7 +43,7 @@
 
 <!--📏LANGUAGES-->
 ![Back-End Badge](https://img.shields.io/badge/back-black?style=for-the-badge)
-<img src = "https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" />
+<img size="100" src = "https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" />
 
 
 <!--📏STATS-->
