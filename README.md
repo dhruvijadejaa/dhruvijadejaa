@@ -43,7 +43,8 @@
 
 <!--📏LANGUAGES-->
 <div>
-![Language](https://img.shields.io/badge/Language-3776AB?style=for-the-badge)
+
+![Front-End Badge](https://img.shields.io/badge/front-black?style=for-the-badge)
   <div display="flex">
     <img src ="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21~bgwhite.svg" />
     <img src ="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" />
@@ -53,7 +54,8 @@
 </div>
 
 <div>
-![Framework&Libraries](https://img.shields.io/badge/Framework&Library-222222?style=for-the-badge)
+
+![Framework & Library Badge](https://img.shields.io/badge/front-black?style=for-the-badge)
   <div display="flex">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" />
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" />
@@ -64,15 +66,15 @@
   </div>
 </div>
 
-<div display="flex">
-  ![Backend](https://img.shields.io/badge/Backend-222222?style=for-the-badge)
+<div>
+![Back-End Badge](https://img.shields.io/badge/back-black?style=for-the-badge)
   <div display="flex">
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" />
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" />
   </div>
 </div>
 
-<div display="flex">
+<div>
   ![Tools](https://img.shields.io/badge/Tools-222222?style=for-the-badge)
   <div display="flex>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" />
