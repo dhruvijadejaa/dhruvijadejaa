@@ -47,7 +47,12 @@
 <img src ="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" />
 <img src ="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" />
 <img src ="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />
-<img src ="" />
+
+![Language](https://img.shields.io/badge/Language-222222?style=for-the-badge)
+
+![Framework](https://img.shields.io/badge/Framework-222222?style=for-the-badge)
+
+![Libraries](https://img.shields.io/badge/Libraries-222222?style=for-the-badge)
 
 
 
