@@ -49,7 +49,7 @@
 <img src ="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" />
 <img src ="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />
 
-![Frame](https://img.shields.io/badge/Frame-222222?style=for-the-badge)
+![Framework & Libraries](https://img.shields.io/badge/Framework&Libraries-222222?style=for-the-badge)
 
 
 ![Libraries](https://img.shields.io/badge/Libraries-222222?style=for-the-badge)
