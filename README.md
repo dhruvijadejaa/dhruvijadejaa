@@ -106,7 +106,7 @@
 | Docker learning | 🟨 In Progress |
 
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff0055,50:7b2ff7,100:00f5ff&height=90&section=header&text=DEBUG%20BOSS%20FIGHT&fontSize=30&fontColor=ffffff&animation=blinking" width="100%" alt="Hustle is real" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff0055,50:7b2ff7,100:00f5ff&height=90&section=header&text=HUSTLE%20IS%20REAL&fontSize=30&fontColor=ffffff&animation=blinking" width="100%" alt="Hustle is real" />
 
 </div>
 
