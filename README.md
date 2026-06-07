@@ -95,20 +95,18 @@
 
 <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvijadejaa&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Battlefield" alt="Contribution graph" />
 
-## 🧾 Quest Log
+## 🧾 Quest Log ##🟨 In Progress ✅ Completed 🟩 Active ‼️ Inactive
 
 | Quest | Status |
 |---|---|
-| Build full-stack AI apps | ✅ Completed |
-| Create RAG pipelines | ✅ Completed |
-| Explore agentic AI workflows | 🟩 Active |
-| Build computer vision systems | 🟩 Active |
-| Learn federated learning | 🟨 In Progress |
-| Improve production ML deployment | 🟨 In Progress |
-| Defeat flaky dependencies | ♾️ Eternal Quest |
-| Touch grass | ❌ Optional DLC |
+| 30 Days strike | 🟩 Active |
+| 10 Full stack projects | ‼️ Inactive |
+| 100+ repository  | 🟨 In Progress |
+| open source contribution | 🟨 In Progress |
+| Docker learning | 🟨 In Progress |
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff0055,50:7b2ff7,100:00f5ff&height=90&section=header&text=DEBUG%20BOSS%20FIGHT&fontSize=30&fontColor=ffffff&animation=blinking" width="100%" alt="Animated boss fight divider" />
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff0055,50:7b2ff7,100:00f5ff&height=90&section=header&text=DEBUG%20BOSS%20FIGHT&fontSize=30&fontColor=ffffff&animation=blinking" width="100%" alt="Hustle is real" />
 
 </div>
 
