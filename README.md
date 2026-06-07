@@ -95,6 +95,21 @@
 
 <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvijadejaa&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Battlefield" alt="Contribution graph" />
 
+## 🧾 Quest Log
+
+| Quest | Status |
+|---|---|
+| Build full-stack AI apps | ✅ Completed |
+| Create RAG pipelines | ✅ Completed |
+| Explore agentic AI workflows | 🟩 Active |
+| Build computer vision systems | 🟩 Active |
+| Learn federated learning | 🟨 In Progress |
+| Improve production ML deployment | 🟨 In Progress |
+| Defeat flaky dependencies | ♾️ Eternal Quest |
+| Touch grass | ❌ Optional DLC |
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff0055,50:7b2ff7,100:00f5ff&height=90&section=header&text=DEBUG%20BOSS%20FIGHT&fontSize=30&fontColor=ffffff&animation=blinking" width="100%" alt="Animated boss fight divider" />
+
 </div>
 
 
