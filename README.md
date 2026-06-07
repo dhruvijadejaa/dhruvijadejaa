@@ -102,7 +102,7 @@
 | 30 Days streak | 🟩 Active |
 | 10 Full stack projects | ‼️ Inactive |
 | 100+ repository  | 🟨 In Progress |
-| open source contribution | 🟨 In Progress |
+| open source contribution | ‼️ Inactive |
 | Docker learning | 🟨 In Progress |
 
 
