@@ -99,7 +99,7 @@
 
 | Quest | Status |
 |---|---|
-| 30 Days strike | 🟩 Active |
+| 30 Days streak | 🟩 Active |
 | 10 Full stack projects | ‼️ Inactive |
 | 100+ repository  | 🟨 In Progress |
 | open source contribution | 🟨 In Progress |
