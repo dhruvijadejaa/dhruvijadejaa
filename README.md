@@ -60,11 +60,11 @@
 <div>
 <h2> Framework & Libraries </h2>
   <div display="flex">
-    <img src="https://thesvg.org/icons/tailwind-css/wordmark.svg" width="80" />
+    <img src="https://thesvg.org/icons/tailwind-css/wordmark.svg" width="80" height="60" />
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" />
-    <img src="https://thesvg.org/icons/nextdotjs/wordmark.svg" width="80" />
-    <img src="https://thesvg.org/icons/django/default.svg" width="80" />
-    <img src="https://thesvg.org/icons/djangorest/wordmark.svg" width="80" />
+    <img src="https://thesvg.org/icons/nextdotjs/wordmark.svg" width="80" height="60" />
+    <img src="https://thesvg.org/icons/django/default.svg" width="60" height="60" />
+    <img src="https://thesvg.org/icons/djangorest/wordmark.svg" width="80" height="60" />
     <img src="https://thesvg.org/icons/bootstrap/default.svg" width="80" />
 
   </div>
