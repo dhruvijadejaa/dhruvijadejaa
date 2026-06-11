@@ -95,7 +95,8 @@
 
 <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvijadejaa&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Battlefield" alt="Contribution graph" />
 
-## 🧾 Quest Log ##🟨 In Progress ✅ Completed 🟩 Active ‼️ Inactive
+## 🧾 Quest Log
+<!--🟨 In Progress ✅ Completed 🟩 Active ‼️ Inactive-->
 
 | Quest | Status |
 |---|---|
@@ -104,6 +105,7 @@
 | 100+ repository  | 🟨 In Progress |
 | open source contribution | ‼️ Inactive |
 | Docker learning | 🟨 In Progress |
+| 365 Days of GSAP | 🟨 In Progress |
 
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff0055,50:7b2ff7,100:00f5ff&height=90&section=header&text=HUSTLE%20IS%20REAL&fontSize=30&fontColor=ffffff&animation=blinking" width="100%" alt="Hustle is real" />
