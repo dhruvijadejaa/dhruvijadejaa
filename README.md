@@ -47,6 +47,7 @@
 
 <h2> Languages </h2>
   <div display="flex">
+    <img src="https://thesvg.org/icons/github/dark.svg" width="40" />
     <img src ="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21~bgwhite.svg" />
     <img src ="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" />
     <img src ="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" />
