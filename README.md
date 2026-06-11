@@ -87,12 +87,14 @@
 <div>
 <h2> Tools </h2>
   <div display="flex">
-<img src="https://thesvg.org/icons/git/default.svg" width="24" />
-<img src="https://thesvg.org/icons/github/wordmark-dark.svg" width="60" />
+<img src="https://thesvg.org/icons/git/default.svg" width="80" height="60" />
+<img src="https://thesvg.org/icons/github/wordmark-dark.svg" width="80" height="60" />
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" />
   <img src ="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" />
   <img src="https://www.vectorlogo.zone/logos/js_redux/js_redux-ar21.svg" />
   <img src='https://www.vectorlogo.zone/logos/redis/redis-ar21.svg' />
+    <img src='https://thesvg.org/icons/celery/default.svg' width="80" height="60" />
+    <img src='https://thesvg.org/icons/postman/default.svg' width="80" height="60" />
   </div>
 </div>
 
