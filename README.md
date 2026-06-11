@@ -79,6 +79,11 @@
   </div>
 </div>
 
+<h2> Web Animation</h2>
+  <div display="flex">
+    <img src= 'https://thesvg.org/icons/gsap/default.svg' width="80" height="60" />
+  </div>
+
 <div>
 <h2> Tools </h2>
   <div display="flex">
