@@ -51,7 +51,7 @@
     <img src ="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" />
     <img src ="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" />
     <img src ="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />
-    <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/f20a81ff-f08a-4548-aad6-42faf89751bb" />
+  
 
   </div>
 </div>
@@ -64,7 +64,7 @@
     <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" />
     <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" />
     <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" />
-    <img src="https://www.vectorlogo.zone/logos/js_redux/js_redux-ar21.svg" />
+
   </div>
 </div>
 
@@ -73,6 +73,7 @@
   <div display="flex">
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" />
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" />
+    <img src='https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg' />
   </div>
 </div>
 
@@ -81,8 +82,11 @@
   <div display="flex">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" />
   <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" />
+    ![GitHub](https://thesvg.org/icons/github/dark.svg)
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" />
     <img src ="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" />
+        <img src="https://www.vectorlogo.zone/logos/js_redux/js_redux-ar21.svg" />
+    <img src='https://www.vectorlogo.zone/logos/redis/redis-ar21.svg' />
   </div>
 </div>
 
