@@ -51,6 +51,8 @@
     <img src ="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" />
     <img src ="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" />
     <img src ="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />
+    <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/f20a81ff-f08a-4548-aad6-42faf89751bb" />
+
   </div>
 </div>
 
