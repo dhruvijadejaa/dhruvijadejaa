@@ -48,7 +48,7 @@
 <h2> Languages </h2>
   <div display="flex">
     <img src ="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21~bgwhite.svg" />
-    <img src ="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" />
+    <img src ="https://thesvg.org/icons/javascript/default.svg" width="60" />
     <img src ="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" />
     <img src ="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />
   
@@ -59,11 +59,12 @@
 <div>
 <h2> Framework & Libraries </h2>
   <div display="flex">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" />
+    <img src="https://thesvg.org/icons/tailwind-css/wordmark.svg width="60" />
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" />
-    <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" />
-    <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" />
-    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" />
+    <img src="https://thesvg.org/icons/nextdotjs/wordmark.svg" width="60" />
+    <img src="https://thesvg.org/icons/django/default.svg" width="60" />
+    <img src="https://thesvg.org/icons/djangorest/wordmark.svg" width="60" />
+    <img src="https://thesvg.org/icons/bootstrap/default.svg" width="60" />
 
   </div>
 </div>
