@@ -111,9 +111,8 @@
 
 ## 🧾 Quest Log
 <!--🟨 In Progress ✅ Completed 🟩 Active ‼️ Inactive-->
-<div>
+
 | Quest | Status |
-|---|---|
 | ReactJS leaning | ✅ Completed |
 | Redux | ✅ Completed |
 | Typescript learning | 🟩 Active |
@@ -126,7 +125,7 @@
 | Celery learning | 🟨 In Progress |
 | Postman | 🟨 In Progress |
 | Redis learning | 🟨 In Progress |
-</div>
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff0055,50:7b2ff7,100:00f5ff&height=90&section=header&text=HUSTLE%20IS%20REAL&fontSize=30&fontColor=ffffff&animation=blinking" width="100%" alt="Hustle is real" />
