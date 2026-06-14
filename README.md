@@ -110,40 +110,21 @@
 <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvijadejaa&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Battlefield" alt="Contribution graph" />
 
 ## 🧾 Quest Log
-<!--🟨 In Progress ✅ Completed 🟩 Active ‼️ Inactive-->
-
-| Quest | Status |
-| ReactJS leaning | ✅ Completed |
-| Redux | ✅ Completed |
-| Typescript learning | 🟩 Active |
-| 30 Days streak | 🟩 Active |
-| 10 Full stack projects | 🟨 In Progress |
-| 100+ repository  | 🟨 In Progress |
-| Open source contribution | ‼️ Inactive |
-| Docker learning | 🟨 In Progress |
-| 365 Days of GSAP | 🟨 In Progress |
-| Celery learning | 🟨 In Progress |
-| Postman | 🟨 In Progress |
-| Redis learning | 🟨 In Progress |
-
-## 🧾 Quest Log
 
 | Quest | Status |
 |---|---|
-| Build full-stack AI apps | ✅ Completed |
-| Create RAG pipelines | ✅ Completed |
-| Explore agentic AI workflows | 🟩 Active |
-| Build computer vision systems | 🟩 Active |
-| Learn federated learning | 🟨 In Progress |
-| Improve production ML deployment | 🟨 In Progress |
-| Defeat flaky dependencies | ♾️ Eternal Quest |
-| Touch grass | ❌ Optional DLC |
-
+| Learn ReactJS | ✅ Completed |
+| Learn Redux | ✅ Completed |
+| Learn Typescript | 🟩 Active |
+| 30 days active streak | 🟩 Active |
+| 10 Fullstack projects | 🟨 In Progress |
+| 100+ repository | 🟨 In Progress |
+| 10 GSAP projects | 🟨 In Progress |
+| Open source contribution | ❌ Inactive |
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff0055,50:7b2ff7,100:00f5ff&height=90&section=header&text=HUSTLE%20IS%20REAL&fontSize=30&fontColor=ffffff&animation=blinking" width="100%" alt="Hustle is real" />
 
 </div>
-
 
 *<b>👇 Hit in Your Console or Terminal to Connect With Me.</b>*
 
