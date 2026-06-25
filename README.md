@@ -34,6 +34,7 @@
   </div>
   <div align ="left">
     Hi, I’m a Full-Stack Developer focused on building production-style web applications through self-driven projects using Django REST Framework and React.js. I specialize in developing scalable backend systems, designing RESTful APIs, and implementing core backend functionality such as authentication, authorization, database modeling, and secure data handling. <br />
+    <br />
     Frontend expertise includes React.js with Redux, performance optimization using core web vitals, code splitting, and caching strategies. Also includes expertise in GSAP for smooth UI animations and interactive experiences.
   </div>
 </div>
